@@ -5,6 +5,31 @@ repo: services-uptime # The name of this repository
 sites:
   - name: ASD
     url: https://asd.learnlearn.in
+  - name: Learn Learnin'
+    url: https://learnlearn.in
+  - name: Daktre
+    url: https://daktre.com
+  - name: Doddasampige
+    url: https://doddasampige.daktre.com
+  - name: Kaanu
+    url: https://kaanu.daktre.com
+  - name: Tobacco Questions
+    url: https://tobaccoquestions.iphindia.org/api/search
+    method: POST
+    headers:
+    - "Content-Type application/json"
+    body: '{"filters":{"years":[]}}'
+  - name: Tobacco Data
+    url: https://tobaccodata.iphindia.org
+  - name: Tribal Health Initiative
+    url: https://tribalhealth.org
+  - name: Mail
+    url: https://mail.free.gen.in/sso/login?url=/webmail/?homepage
+  - name: Akshay's ActivityPub
+    url: https://social.learnlearn.in
+
+assignees:
+  - asdofindia
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
