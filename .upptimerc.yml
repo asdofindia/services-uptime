@@ -14,11 +14,7 @@ sites:
   - name: Kaanu
     url: https://kaanu.daktre.com
   - name: Tobacco Questions
-    url: https://tobaccoquestions.iphindia.org/api/search
-    method: POST
-    headers:
-    - "Content-Type application/json"
-    body: '{"filters":{"years":[]}}'
+    url: https://tobaccoquestions.iphindia.org/api/dimensionValues/ministry
   - name: Tobacco Data
     url: https://tobaccodata.iphindia.org
   - name: Tribal Health Initiative
