@@ -34,8 +34,8 @@ status-website:
   baseUrl: /services-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "The status monitor for some of the services deployed by Akshay"
+  introMessage: If you like to contact Akshay for any reason, you can [find the contact details here](https://asd.learnlearn.in/about#contact)
   navbar:
     - title: Status
       href: /
