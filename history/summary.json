@@ -78,18 +78,20 @@
     "url": "https://kaanu.daktre.com",
     "icon": "https://icons.duckduckgo.com/ip3/kaanu.daktre.com.ico",
     "slug": "kaanu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1878,
-    "timeDay": 1820,
-    "timeWeek": 1736,
-    "timeMonth": 1855,
-    "timeYear": 1878,
-    "dailyMinutesDown": {}
+    "time": 1926,
+    "timeDay": 2723,
+    "timeWeek": 1972,
+    "timeMonth": 1909,
+    "timeYear": 1926,
+    "dailyMinutesDown": {
+      "2024-02-01": 0
+    }
   },
   {
     "name": "Tobacco Questions",
@@ -118,7 +120,7 @@
     "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.55%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.39%",
     "time": 1537,
     "timeDay": 1776,
