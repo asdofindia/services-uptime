@@ -155,19 +155,19 @@
     "url": "https://mail.free.gen.in/sso/login?url=/webmail/?homepage",
     "icon": "https://icons.duckduckgo.com/ip3/mail.free.gen.in.ico",
     "slug": "mail",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 944,
-    "timeDay": 908,
-    "timeWeek": 1310,
-    "timeMonth": 1006,
-    "timeYear": 944,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 936,
+    "timeDay": 814,
+    "timeWeek": 1234,
+    "timeMonth": 994,
+    "timeYear": 936,
     "dailyMinutesDown": {
-      "2024-02-03": 0
+      "2024-02-03": 12
     }
   },
   {
