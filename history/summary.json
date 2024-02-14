@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/daktre.com.ico",
     "slug": "daktre",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 2166,
     "timeDay": 8883,
     "timeWeek": 3659,
     "timeMonth": 2317,
     "timeYear": 2166,
     "dailyMinutesDown": {
-      "2024-02-14": 1
+      "2024-02-14": 13
     }
   },
   {
@@ -62,10 +62,10 @@
     "url": "https://doddasampige.daktre.com",
     "icon": "https://icons.duckduckgo.com/ip3/doddasampige.daktre.com.ico",
     "slug": "doddasampige",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 983,
@@ -73,18 +73,20 @@
     "timeWeek": 1295,
     "timeMonth": 1018,
     "timeYear": 983,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-14": 2
+    }
   },
   {
     "name": "Kaanu",
     "url": "https://kaanu.daktre.com",
     "icon": "https://icons.duckduckgo.com/ip3/kaanu.daktre.com.ico",
     "slug": "kaanu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.93%",
     "time": 1949,
     "timeDay": 2191,
@@ -92,6 +94,7 @@
     "timeMonth": 1979,
     "timeYear": 1949,
     "dailyMinutesDown": {
+      "2024-02-14": 1,
       "2024-02-04": 16,
       "2024-02-01": 29
     }
@@ -101,9 +104,9 @@
     "url": "https://tobaccoquestions.iphindia.org/api/dimensionValues/ministry",
     "icon": "https://icons.duckduckgo.com/ip3/tobaccoquestions.iphindia.org.ico",
     "slug": "tobacco-questions",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -112,7 +115,9 @@
     "timeWeek": 1422,
     "timeMonth": 1325,
     "timeYear": 1373,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-14": 0
+    }
   },
   {
     "name": "Tobacco Data",
