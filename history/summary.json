@@ -42,19 +42,19 @@
     "url": "https://daktre.com",
     "icon": "https://icons.duckduckgo.com/ip3/daktre.com.ico",
     "slug": "daktre",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "94.13%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.87%",
-    "time": 2616,
-    "timeDay": 8457,
-    "timeWeek": 5187,
-    "timeMonth": 2976,
-    "timeYear": 2616,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "93.58%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.86%",
+    "time": 2602,
+    "timeDay": 7513,
+    "timeWeek": 4930,
+    "timeMonth": 2945,
+    "timeYear": 2602,
     "dailyMinutesDown": {
-      "2024-02-14": 85
+      "2024-02-14": 93
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://tobaccoquestions.iphindia.org/api/dimensionValues/ministry",
     "icon": "https://icons.duckduckgo.com/ip3/tobaccoquestions.iphindia.org.ico",
     "slug": "tobacco-questions",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "95.85%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.91%",
-    "time": 1382,
-    "timeDay": 1536,
-    "timeWeek": 1460,
-    "timeMonth": 1341,
-    "timeYear": 1382,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "95.30%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.90%",
+    "time": 1376,
+    "timeDay": 1439,
+    "timeWeek": 1423,
+    "timeMonth": 1333,
+    "timeYear": 1376,
     "dailyMinutesDown": {
-      "2024-02-14": 60
+      "2024-02-14": 68
     }
   },
   {
