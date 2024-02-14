@@ -42,10 +42,10 @@
     "url": "https://daktre.com",
     "icon": "https://icons.duckduckgo.com/ip3/daktre.com.ico",
     "slug": "daktre",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2166,
@@ -53,7 +53,9 @@
     "timeWeek": 3659,
     "timeMonth": 2317,
     "timeYear": 2166,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-14": 1
+    }
   },
   {
     "name": "Doddasampige",
@@ -61,19 +63,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/doddasampige.daktre.com.ico",
     "slug": "doddasampige",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 983,
     "timeDay": 2380,
     "timeWeek": 1295,
     "timeMonth": 1018,
     "timeYear": 983,
-    "dailyMinutesDown": {
-      "2024-02-14": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Kaanu",
