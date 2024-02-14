@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/daktre.com.ico",
     "slug": "daktre",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "96.48%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.90%",
+    "uptimeDay": "95.64%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.90%",
     "time": 2629,
     "timeDay": 9760,
     "timeWeek": 5482,
     "timeMonth": 3005,
     "timeYear": 2629,
     "dailyMinutesDown": {
-      "2024-02-14": 51
+      "2024-02-14": 63
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://doddasampige.daktre.com",
     "icon": "https://icons.duckduckgo.com/ip3/doddasampige.daktre.com.ico",
     "slug": "doddasampige",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 1083,
     "timeDay": 2978,
     "timeWeek": 1751,
     "timeMonth": 1168,
     "timeYear": 1083,
     "dailyMinutesDown": {
-      "2024-02-14": 29
+      "2024-02-14": 20
     }
   },
   {
@@ -83,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kaanu.daktre.com.ico",
     "slug": "kaanu",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "97.45%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.86%",
+    "uptimeDay": "96.61%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.86%",
     "time": 2075,
     "timeDay": 3836,
     "timeWeek": 2700,
     "timeMonth": 2160,
     "timeYear": 2075,
     "dailyMinutesDown": {
-      "2024-02-14": 36,
+      "2024-02-14": 48,
       "2024-02-04": 16,
       "2024-02-01": 29
     }
