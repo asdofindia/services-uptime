@@ -151,18 +151,20 @@
     "url": "https://tribalhealth.org",
     "icon": "https://icons.duckduckgo.com/ip3/tribalhealth.org.ico",
     "slug": "tribal-health-initiative",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1077,
-    "timeDay": 611,
-    "timeWeek": 4054,
-    "timeMonth": 1500,
-    "timeYear": 1077,
-    "dailyMinutesDown": {}
+    "time": 1062,
+    "timeDay": 408,
+    "timeWeek": 3626,
+    "timeMonth": 1461,
+    "timeYear": 1062,
+    "dailyMinutesDown": {
+      "2024-02-21": 0
+    }
   },
   {
     "name": "Mail",
