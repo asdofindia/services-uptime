@@ -152,10 +152,10 @@
     "url": "https://tribalhealth.org",
     "icon": "https://icons.duckduckgo.com/ip3/tribalhealth.org.ico",
     "slug": "tribal-health-initiative",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
     "time": 966,
@@ -164,6 +164,7 @@
     "timeMonth": 1539,
     "timeYear": 966,
     "dailyMinutesDown": {
+      "2024-03-14": 1,
       "2024-02-21": 43
     }
   },
@@ -190,9 +191,9 @@
     "url": "https://social.learnlearn.in",
     "icon": "https://icons.duckduckgo.com/ip3/social.learnlearn.in.ico",
     "slug": "akshay-s-activity-pub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
@@ -202,6 +203,7 @@
     "timeMonth": 894,
     "timeYear": 898,
     "dailyMinutesDown": {
+      "2024-03-14": 0,
       "2024-02-21": 25
     }
   }
