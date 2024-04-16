@@ -1,7 +1,7 @@
 url: https://mail.free.gen.in/sso/login?url=/webmail/?homepage
-status: down
-code: 502
-responseTime: 994
-lastUpdated: 2024-04-16T05:28:46.011Z
+status: up
+code: 200
+responseTime: 179
+lastUpdated: 2024-04-16T05:39:32.747Z
 startTime: 2023-12-30T19:14:15.987Z
 generator: Upptime <https://github.com/upptime/upptime>
