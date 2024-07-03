@@ -23,6 +23,12 @@ sites:
     url: https://mail.free.gen.in/sso/login?url=/webmail/?homepage
   - name: Akshay's ActivityPub
     url: https://social.learnlearn.in
+  - name: SAA Karnataka
+    url: https://saakarnataka.org
+  - name: Arunodaya Trust
+    url: https://arunodayatrust.in
+  - name: MathsFunda
+    url: https://mathsfunda.com
 
 assignees:
   - asdofindia
