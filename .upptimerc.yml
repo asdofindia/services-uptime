@@ -29,6 +29,8 @@ sites:
     url: https://arunodayatrust.in
   - name: MathsFunda
     url: https://mathsfunda.com
+  - name: Sahya Transcribe
+    url: https://transcribe.sahya.org.in
 
 assignees:
   - asdofindia
