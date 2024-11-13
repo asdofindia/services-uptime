@@ -13,6 +13,8 @@ sites:
     url: https://doddasampige.daktre.com
   - name: Kaanu
     url: https://kaanu.daktre.com
+  - name: Notes of Daktre
+    url: https://notes.daktre.com
   - name: Tobacco Questions
     url: https://tobaccoquestions.iphindia.org/api/dimensionValues/ministry
   - name: Tobacco Data
