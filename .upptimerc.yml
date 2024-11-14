@@ -33,6 +33,12 @@ sites:
     url: https://mathsfunda.com
   - name: Sahya Transcribe
     url: https://transcribe.sahya.org.in
+  - name: Nivarana
+    url: https://nivarana.org
+  - name: Neralu
+    url: https://neralu.net
+  - name: HealthQuill
+    url: https://healthquill.com
 
 assignees:
   - asdofindia
