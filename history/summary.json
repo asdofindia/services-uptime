@@ -115,7 +115,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kaanu.daktre.com.ico",
     "slug": "kaanu",
     "status": "up",
-    "uptime": "94.10%",
+    "uptime": "94.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -382,9 +382,9 @@
     "url": "https://transcribe.sahya.org.in",
     "icon": "https://icons.duckduckgo.com/ip3/transcribe.sahya.org.in.ico",
     "slug": "sahya-transcribe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -393,7 +393,9 @@
     "timeWeek": 785,
     "timeMonth": 772,
     "timeYear": 797,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-07": 0
+    }
   },
   {
     "name": "Nivarana",
@@ -440,12 +442,12 @@
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.90%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.92%",
     "time": 1795,
     "timeDay": 1767,
     "timeWeek": 1725,
-    "timeMonth": 1832,
+    "timeMonth": 1841,
     "timeYear": 1795,
     "dailyMinutesDown": {
       "2025-01-04": 19,
