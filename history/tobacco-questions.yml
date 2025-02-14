@@ -1,7 +1,7 @@
 url: https://tobaccoquestions.iphindia.org/api/dimensionValues/ministry
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-14T23:18:50.318Z
+status: up
+code: 200
+responseTime: 1163
+lastUpdated: 2025-02-14T23:29:26.017Z
 startTime: 2023-12-30T19:14:07.849Z
 generator: Upptime <https://github.com/upptime/upptime>
