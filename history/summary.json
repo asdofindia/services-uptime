@@ -172,7 +172,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kaanu.daktre.com.ico",
     "slug": "kaanu",
     "status": "up",
-    "uptime": "95.95%",
+    "uptime": "95.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -435,9 +435,9 @@
     "url": "https://arunodayatrust.in",
     "icon": "https://icons.duckduckgo.com/ip3/arunodayatrust.in.ico",
     "slug": "arunodaya-trust",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -447,6 +447,7 @@
     "timeMonth": 1400,
     "timeYear": 1207,
     "dailyMinutesDown": {
+      "2025-06-28": 0,
       "2024-07-03": 22
     }
   },
