@@ -5,6 +5,8 @@ repo: services-uptime # The name of this repository
 sites:
   - name: ASD
     url: https://asd.learnlearn.in
+  - name: Action for Equity
+    url: https://actionforequity.in
   - name: Learn Learnin'
     url: https://learnlearn.in
   - name: Daktre
@@ -27,10 +29,6 @@ sites:
     url: https://social.learnlearn.in
   - name: SAA Karnataka
     url: https://saakarnataka.org
-  - name: Arunodaya Trust
-    url: https://arunodayatrust.in
-  - name: MathsFunda
-    url: https://mathsfunda.com
   - name: Sahya Transcribe
     url: https://transcribe.sahya.org.in
   - name: Nivarana
@@ -39,6 +37,12 @@ sites:
     url: https://neralu.net
   - name: HealthQuill
     url: https://healthquill.com
+  - name: JSA
+    url: https://phmindia.org
+  - name: Bhumika
+    url: https://bhumikasaraswati.com
+  - name: BioRegister
+    url: https://bioregister.in
 
 assignees:
   - asdofindia
