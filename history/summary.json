@@ -50,7 +50,7 @@
     "timeDay": 490,
     "timeWeek": 630,
     "timeMonth": 611,
-    "timeYear": 657,
+    "timeYear": 658,
     "dailyMinutesDown": {}
   },
   {
@@ -267,7 +267,7 @@
     "timeDay": 1290,
     "timeWeek": 1271,
     "timeMonth": 1255,
-    "timeYear": 1365,
+    "timeYear": 1366,
     "dailyMinutesDown": {
       "2025-06-26": 29,
       "2025-06-23": 27,
@@ -413,7 +413,7 @@
     "timeDay": 732,
     "timeWeek": 929,
     "timeMonth": 906,
-    "timeYear": 953,
+    "timeYear": 954,
     "dailyMinutesDown": {
       "2024-10-20": 67
     }
@@ -433,7 +433,7 @@
     "timeDay": 1027,
     "timeWeek": 1197,
     "timeMonth": 1170,
-    "timeYear": 1136,
+    "timeYear": 1137,
     "dailyMinutesDown": {
       "2024-10-31": 15,
       "2024-09-12": 255,
@@ -456,7 +456,7 @@
     "timeDay": 781,
     "timeWeek": 835,
     "timeMonth": 927,
-    "timeYear": 809,
+    "timeYear": 810,
     "dailyMinutesDown": {
       "2025-01-13": 403,
       "2025-01-12": 1440,
@@ -540,18 +540,20 @@
     "url": "https://phmindia.org",
     "icon": "https://icons.duckduckgo.com/ip3/phmindia.org.ico",
     "slug": "jsa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4148,
-    "timeDay": 3835,
-    "timeWeek": 2573,
-    "timeMonth": 4148,
-    "timeYear": 4148,
-    "dailyMinutesDown": {}
+    "time": 3986,
+    "timeDay": 2778,
+    "timeWeek": 2488,
+    "timeMonth": 3986,
+    "timeYear": 3986,
+    "dailyMinutesDown": {
+      "2025-07-17": 1
+    }
   },
   {
     "name": "Bhumika",
