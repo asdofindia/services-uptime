@@ -4,19 +4,19 @@
     "url": "https://asd.learnlearn.in",
     "icon": "https://icons.duckduckgo.com/ip3/asd.learnlearn.in.ico",
     "slug": "asd",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 939,
-    "timeDay": 869,
-    "timeWeek": 760,
-    "timeMonth": 777,
-    "timeYear": 944,
+    "time": 938,
+    "timeDay": 767,
+    "timeWeek": 748,
+    "timeMonth": 773,
+    "timeYear": 943,
     "dailyMinutesDown": {
-      "2025-07-26": 1
+      "2025-07-26": 6
     }
   },
   {
